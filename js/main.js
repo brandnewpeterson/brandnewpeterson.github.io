@@ -216,4 +216,4 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
         }
 
     });
-    window.onresize = function(){ location.reload(); };
+    //window.onresize = function(){ location.reload(); };
