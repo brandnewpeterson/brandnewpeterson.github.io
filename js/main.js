@@ -12,6 +12,8 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
         data_as_array[i] = Object.values(d);
     })
 
+    var label_offset = 20;
+
     //Bipartate Viz
 
     data = data_as_array;
@@ -29,6 +31,7 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
     var bp=viz.bP()
     .data(data)
     .min(12)
+    .width(width1-100-160)
     .pad(1)
     .barSize(15)
     .fill(d=>color(d.primary));
@@ -209,7 +212,8 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
                 .duration(200)
                 .attr('r', 2)
             });
-            
+
         }
 
     });
+    window.onresize = function(){ location.reload(); };
