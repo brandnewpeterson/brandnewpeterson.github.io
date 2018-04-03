@@ -1,0 +1,150 @@
+"source_city","target_region","numdup"
+"Beijing","Australia & N. Zealand",1
+"Shanghai","Australia & N. Zealand",10
+"Atlanta","Caribbean",30
+"Chicago","Caribbean",14
+"Frankfurt","Caribbean",9
+"London","Caribbean",16
+"Moscow","Caribbean",6
+"New York","Caribbean",48
+"Paris","Caribbean",20
+"Atlanta","C. America",53
+"Chicago","C. America",29
+"Frankfurt","C. America",2
+"London","C. America",8
+"Moscow","C. America",1
+"New York","C. America",21
+"Paris","C. America",5
+"Shanghai","C. America",1
+"Beijing","C. Asia",5
+"Frankfurt","C. Asia",7
+"Istanbul","C. Asia",19
+"London","C. Asia",5
+"Moscow","C. Asia",66
+"Paris","C. Asia",2
+"Beijing","E. Africa",3
+"Frankfurt","E. Africa",6
+"Istanbul","E. Africa",8
+"London","E. Africa",10
+"Moscow","E. Africa",2
+"Paris","E. Africa",14
+"Shanghai","E. Africa",2
+"Atlanta","E. Asia",3
+"Beijing","E. Asia",440
+"Chicago","E. Asia",22
+"Frankfurt","E. Asia",23
+"Istanbul","E. Asia",15
+"London","E. Asia",25
+"Moscow","E. Asia",23
+"New York","E. Asia",17
+"Paris","E. Asia",23
+"Shanghai","E. Asia",465
+"Beijing","E. Europe",24
+"Chicago","E. Europe",1
+"Frankfurt","E. Europe",41
+"Istanbul","E. Europe",54
+"London","E. Europe",73
+"Moscow","E. Europe",245
+"New York","E. Europe",5
+"Paris","E. Europe",28
+"Shanghai","E. Europe",2
+"Beijing","Micronesia",1
+"Shanghai","Micronesia",1
+"Beijing","Mid. Africa",1
+"Frankfurt","Mid. Africa",1
+"Istanbul","Mid. Africa",3
+"London","Mid. Africa",1
+"Paris","Mid. Africa",13
+"Beijing","N. Africa",3
+"Frankfurt","N. Africa",13
+"Istanbul","N. Africa",26
+"London","N. Africa",42
+"Moscow","N. Africa",12
+"New York","N. Africa",3
+"Paris","N. Africa",70
+"Atlanta","N. America",765
+"Beijing","N. America",36
+"Chicago","N. America",550
+"Frankfurt","N. America",71
+"Istanbul","N. America",12
+"London","N. America",209
+"Moscow","N. America",15
+"New York","N. America",340
+"Paris","N. America",103
+"Shanghai","N. America",30
+"Atlanta","N. Europe",15
+"Beijing","N. Europe",11
+"Chicago","N. Europe",23
+"Frankfurt","N. Europe",46
+"Istanbul","N. Europe",30
+"London","N. Europe",149
+"Moscow","N. Europe",28
+"New York","N. Europe",41
+"Paris","N. Europe",74
+"Shanghai","N. Europe",7
+"Atlanta","S. America",11
+"Chicago","S. America",1
+"Frankfurt","S. America",10
+"Istanbul","S. America",1
+"London","S. America",4
+"New York","S. America",27
+"Paris","S. America",15
+"Beijing","S.E. Asia",19
+"Frankfurt","S.E. Asia",12
+"Istanbul","S.E. Asia",7
+"London","S.E. Asia",11
+"Moscow","S.E. Asia",14
+"Paris","S.E. Asia",14
+"Shanghai","S.E. Asia",39
+"Atlanta","S. Africa",1
+"Beijing","S. Africa",2
+"Frankfurt","S. Africa",4
+"Istanbul","S. Africa",1
+"London","S. Africa",8
+"New York","S. Africa",4
+"Paris","S. Africa",2
+"Beijing","S. Asia",7
+"Chicago","S. Asia",1
+"Frankfurt","S. Asia",14
+"Istanbul","S. Asia",24
+"London","S. Asia",22
+"Moscow","S. Asia",7
+"New York","S. Asia",2
+"Paris","S. Asia",8
+"Shanghai","S. Asia",5
+"Atlanta","S. Europe",9
+"Beijing","S. Europe",4
+"Chicago","S. Europe",11
+"Frankfurt","S. Europe",113
+"Istanbul","S. Europe",48
+"London","S. Europe",356
+"Moscow","S. Europe",83
+"New York","S. Europe",37
+"Paris","S. Europe",151
+"Shanghai","S. Europe",3
+"Atlanta","W. Africa",1
+"Frankfurt","W. Africa",6
+"Istanbul","W. Africa",4
+"London","W. Africa",11
+"New York","W. Africa",3
+"Paris","W. Africa",26
+"Atlanta","W. Asia",1
+"Beijing","W. Asia",10
+"Chicago","W. Asia",7
+"Frankfurt","W. Asia",48
+"Istanbul","W. Asia",163
+"London","W. Asia",90
+"Moscow","W. Asia",50
+"New York","W. Asia",14
+"Paris","W. Asia",38
+"Shanghai","W. Asia",5
+"Atlanta","W. Europe",24
+"Beijing","W. Europe",20
+"Chicago","W. Europe",34
+"Frankfurt","W. Europe",62
+"Istanbul","W. Europe",79
+"London","W. Europe",182
+"Moscow","W. Europe",50
+"New York","W. Europe",46
+"Paris","W. Europe",116
+"Shanghai","W. Europe",12
