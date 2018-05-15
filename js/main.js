@@ -1,86 +1,111 @@
-var data = d3.csv("data/t10_routes.csv", function(error, data) {
+var data = d3.csv("data/t100_routes.csv", function(error, data) {
 
     var bifinal = 0;
     var selected_element = 'all';
     var city_pairs;
-
+    var tier = 1;
+    var bifinal_h;
+    var bp;
+    var g;
+    var color;
+    var city_labels = [];
 
     if (error) throw error;
 
     data_as_array = [];
-    data.forEach(function(d,i){
-        data_as_array[i] = Object.values(d);
-    })
-
-    var label_offset = 20;
-
-    //Bipartate Viz
-
-    data = data_as_array;
-
-    var r1 = d3.select("#chart-area1").node().getBoundingClientRect(),
-    width1 = r1.width, height1 = 800;
-
-    var color = d3.scaleOrdinal(d3.schemeCategory10);
-    var svg = d3.select("#chart-area1").append("svg")
-    .attr("width", width1).attr("height", height1);
-
-    var g = svg.append("g")
-    .attr("transform", "translate(" + 100 + "," + 0 + ")" );
-
-    var bp=viz.bP()
-    .data(data)
-    .min(12)
-    .width(width1-100-160)
-    .pad(1)
-    .barSize(15)
-    .fill(d=>color(d.primary));
-
-    g.call(bp);
-
-    g.selectAll(".mainBars")
-    .on("mouseover",mouseover)
-    .on("mouseout",mouseout)
-
-    g.selectAll(".mainBars").append("text").attr("class","label")
-    .attr("x",d=>(d.part=="primary"? -20: 20))
-    .attr("y",d=>+6)
-    .text(d=>d.key)
-    .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
-
-
-    g.selectAll(".mainBars").append("text").attr("class","perc")
-    .attr("x",d=>(d.part=="primary"? -80: 140))
-    .attr("y",d=>+6)
-    .text(function(d){return d.value})
-    .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
-
-    function mouseover(d){
-        bp.mouseover(d);
-        selected_element = $(this).closest('.mainBars')['0']['__data__']['key'];
-        update(city_pairs);
-        g.selectAll(".mainBars")
-        .select(".perc")
-        .text(function(d){ return d.value})
-
-    }
-    function mouseout(d){
-        bp.mouseout(d);
-        selected_element = "all"
-        update(city_pairs);
-        g.selectAll(".mainBars")
-        .select(".perc")
-        .text(function(d){ return d.value})
-    }
-
-    var rects = g.selectAll(".mainBars").select('rect');
-    rects.text(function(r, i) {
-        if (r.x < width1/2){
-            bifinal_h = r.y;
-        }
+    data.forEach(function(d){
+        data_as_array.push(Object.values(d));
     });
 
-    //d3.select(self.frameElement).style("height", "800px");
+    //Bipartate Viz
+    d3.select('#inds')
+			.on("change", function () {
+				var sect = document.getElementById("inds");
+				tier = sect.options[sect.selectedIndex].value;
+                createBiPartite(filterBiPartiteData(data_as_array));
+            });
+
+
+    createBiPartite(filterBiPartiteData(data_as_array));
+
+    function filterBiPartiteData(){
+        var max = tier * 10;
+        var min = max - 9;
+        var out = data_as_array.filter(function(d){return (d[3] <= max && d[3] >= min) ;});
+        city_labels = Array.from(new Set(d3.values(out).map(function(values){ return values[0] })));
+        return out;
+
+    }
+
+    function updateBiPartite(data){
+        bp.update(data);
+
+        g.selectAll(".mainBars")
+        .select(".label")
+        .text(function(d){ return d.key + " (" + d.value + ")"})
+
+    }
+
+    function createBiPartite(data){
+
+        color = d3.scaleOrdinal(d3.schemeCategory10);
+
+        d3.select("svg").transition().duration(500).style("fill", "#F5E8D8").remove();
+
+        var r1 = d3.select("#chart-area1").node().getBoundingClientRect(),
+        width1 = r1.width + 20, height1 = 800;
+
+        var svg = d3.select("#chart-area1").append("svg")
+        .attr("width", width1).attr("height", height1);
+
+        g = svg.append("g")
+        .attr("transform", "translate(" + 200 + "," + 0 + ")" );
+
+        bp=viz.bP()
+        .data(data)
+        .min(12)
+        .pad(1)
+        .barSize(15)
+        .fill(d=>color(d.primary));
+
+        g.call(bp);
+
+        g.selectAll(".mainBars")
+        .on("mouseover",mouseover)
+        .on("mouseout",mouseout)
+
+        g.selectAll(".mainBars").append("text").attr("class","label")
+        .attr("x",d=>(d.part=="primary"? -20: 20))
+        .attr("y",d=>+6)
+        .text(d=>d.key + " (" + d.value + ")")
+        .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
+
+        function mouseover(d){
+            bp.mouseover(d);
+            selected_element = $(this).closest('.mainBars')['0']['__data__']['key'];
+            update(city_pairs);
+            g.selectAll(".mainBars")
+            .select(".label")
+            .text(function(d){ return d.key + " (" + d.value + ")"})
+
+        }
+        function mouseout(d){
+            bp.mouseout(d);
+            selected_element = "all"
+            update(city_pairs);
+            g.selectAll(".mainBars")
+            .select(".label")
+            .text(function(d){ return d.key + " (" + d.value + ")"})
+        }
+
+        var rects = g.selectAll(".mainBars").select('rect');
+        rects.text(function(r, i) {
+            if (r.x < width1/2){
+                bifinal_h = r.y;
+            }
+        });
+
+    }
 
     //World Map Viz
     var margin = {top: 0, left: 0, bottom: 0, right: 0}
@@ -109,7 +134,7 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
 
     d3.queue()
     .defer(d3.json, "data/50m.json")
-    .defer(d3.csv, "data/t10_city_routes.csv")
+    .defer(d3.csv, "data/t100_city_routes.csv")
     .await(makeMap);
 
     function makeMap(error, world, routes) {
@@ -135,11 +160,15 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
     function update(city_pairs){
 
         if (selected_element != 'all'){
-            if(selected_element.indexOf('.') == -1 & selected_element != "Caribbean"){
+            console.log(city_labels)
+            if(city_labels.includes(selected_element)){
                 filtered_city_pairs = city_pairs.filter(function(d){return d.source_city == selected_element;});
             }
             else{
-                filtered_city_pairs = city_pairs.filter(function(d){return d.target_region == selected_element;});
+                filtered_city_pairs = city_pairs.filter(function(d){
+                    return d.target_region == selected_element && city_labels.includes(d.source_city)
+
+                });
             }
         }
 
@@ -216,4 +245,3 @@ var data = d3.csv("data/t10_routes.csv", function(error, data) {
         }
 
     });
-    //window.onresize = function(){ location.reload(); };
