@@ -1,0 +1,933 @@
+"source_city","target_region","numdup","rank"
+"053. Abu Dhabi","Aus. & N.Z.",6,53
+"053. Abu Dhabi","C. Asia",4,53
+"053. Abu Dhabi","E. Africa",6,53
+"053. Abu Dhabi","E. Asia",17,53
+"053. Abu Dhabi","E. Europe",4,53
+"053. Abu Dhabi","N. Africa",9,53
+"053. Abu Dhabi","N. America",8,53
+"053. Abu Dhabi","N. Europe",8,53
+"053. Abu Dhabi","S. Africa",4,53
+"053. Abu Dhabi","S. America",1,53
+"053. Abu Dhabi","S. Asia",59,53
+"053. Abu Dhabi","S. Europe",8,53
+"053. Abu Dhabi","S.E. Asia",22,53
+"053. Abu Dhabi","W. Africa",1,53
+"053. Abu Dhabi","W. Asia",56,53
+"053. Abu Dhabi","W. Europe",27,53
+"090. Alicante","E. Europe",8,90
+"090. Alicante","N. Africa",4,90
+"090. Alicante","N. Europe",95,90
+"090. Alicante","S. Europe",17,90
+"090. Alicante","W. Europe",33,90
+"013. Amsterdam","C. America",3,13
+"013. Amsterdam","C. Asia",2,13
+"013. Amsterdam","Caribbean",11,13
+"013. Amsterdam","E. Africa",12,13
+"013. Amsterdam","E. Asia",22,13
+"013. Amsterdam","E. Europe",19,13
+"013. Amsterdam","Mid. Africa",1,13
+"013. Amsterdam","N. Africa",10,13
+"013. Amsterdam","N. America",49,13
+"013. Amsterdam","N. Europe",92,13
+"013. Amsterdam","S. Africa",3,13
+"013. Amsterdam","S. America",9,13
+"013. Amsterdam","S. Asia",4,13
+"013. Amsterdam","S. Europe",99,13
+"013. Amsterdam","S.E. Asia",8,13
+"013. Amsterdam","W. Africa",3,13
+"013. Amsterdam","W. Asia",42,13
+"013. Amsterdam","W. Europe",61,13
+"068. Athens","E. Europe",19,68
+"068. Athens","N. Africa",4,68
+"068. Athens","N. America",5,68
+"068. Athens","N. Europe",20,68
+"068. Athens","S. Europe",90,68
+"068. Athens","W. Asia",19,68
+"068. Athens","W. Europe",38,68
+"002. Atlanta","C. America",53,2
+"002. Atlanta","Caribbean",32,2
+"002. Atlanta","E. Asia",3,2
+"002. Atlanta","N. America",765,2
+"002. Atlanta","N. Europe",15,2
+"002. Atlanta","S. Africa",1,2
+"002. Atlanta","S. America",11,2
+"002. Atlanta","S. Europe",9,2
+"002. Atlanta","W. Africa",1,2
+"002. Atlanta","W. Asia",1,2
+"002. Atlanta","W. Europe",24,2
+"100. Baltimore","C. America",1,100
+"100. Baltimore","Caribbean",7,100
+"100. Baltimore","N. America",130,100
+"100. Baltimore","N. Europe",4,100
+"018. Bangkok","Aus. & N.Z.",13,18
+"018. Bangkok","C. Asia",2,18
+"018. Bangkok","E. Africa",7,18
+"018. Bangkok","E. Asia",107,18
+"018. Bangkok","E. Europe",9,18
+"018. Bangkok","N. Africa",3,18
+"018. Bangkok","N. Europe",13,18
+"018. Bangkok","S. Africa",2,18
+"018. Bangkok","S. Asia",36,18
+"018. Bangkok","S. Europe",3,18
+"018. Bangkok","S.E. Asia",162,18
+"018. Bangkok","W. Asia",17,18
+"018. Bangkok","W. Europe",17,18
+"020. Barcelona","E. Europe",38,20
+"020. Barcelona","N. Africa",25,20
+"020. Barcelona","N. America",21,20
+"020. Barcelona","N. Europe",67,20
+"020. Barcelona","S. America",3,20
+"020. Barcelona","S. Asia",2,20
+"020. Barcelona","S. Europe",124,20
+"020. Barcelona","S.E. Asia",1,20
+"020. Barcelona","W. Africa",5,20
+"020. Barcelona","W. Asia",9,20
+"020. Barcelona","W. Europe",94,20
+"008. Beijing","Aus. & N.Z.",1,8
+"008. Beijing","C. Asia",5,8
+"008. Beijing","E. Africa",3,8
+"008. Beijing","E. Asia",445,8
+"008. Beijing","E. Europe",24,8
+"008. Beijing","Micronesia",1,8
+"008. Beijing","Mid. Africa",1,8
+"008. Beijing","N. Africa",3,8
+"008. Beijing","N. America",36,8
+"008. Beijing","N. Europe",11,8
+"008. Beijing","S. Africa",2,8
+"008. Beijing","S. Asia",7,8
+"008. Beijing","S. Europe",4,8
+"008. Beijing","S.E. Asia",19,8
+"008. Beijing","W. Asia",10,8
+"008. Beijing","W. Europe",20,8
+"036. Berlin","E. Asia",2,36
+"036. Berlin","E. Europe",25,36
+"036. Berlin","N. Africa",5,36
+"036. Berlin","N. America",8,36
+"036. Berlin","N. Europe",53,36
+"036. Berlin","S. Europe",105,36
+"036. Berlin","W. Asia",22,36
+"036. Berlin","W. Europe",68,36
+"093. Bogota","C. America",11,93
+"093. Bogota","Caribbean",10,93
+"093. Bogota","N. America",28,93
+"093. Bogota","S. America",97,93
+"093. Bogota","S. Europe",3,93
+"093. Bogota","W. Europe",3,93
+"063. Boston","C. America",7,63
+"063. Boston","Caribbean",11,63
+"063. Boston","E. Asia",2,63
+"063. Boston","N. America",155,63
+"063. Boston","N. Europe",13,63
+"063. Boston","S. Europe",10,63
+"063. Boston","W. Africa",1,63
+"063. Boston","W. Asia",2,63
+"063. Boston","W. Europe",11,63
+"094. Brisbane","Aus. & N.Z.",104,94
+"094. Brisbane","E. Asia",7,94
+"094. Brisbane","Melanesia",16,94
+"094. Brisbane","Micronesia",1,94
+"094. Brisbane","N. America",5,94
+"094. Brisbane","Polynesia",1,94
+"094. Brisbane","S.E. Asia",15,94
+"094. Brisbane","W. Asia",2,94
+"030. Brussels","E. Africa",9,30
+"030. Brussels","E. Asia",2,30
+"030. Brussels","E. Europe",17,30
+"030. Brussels","Mid. Africa",14,30
+"030. Brussels","N. Africa",20,30
+"030. Brussels","N. America",28,30
+"030. Brussels","N. Europe",38,30
+"030. Brussels","S. Asia",4,30
+"030. Brussels","S. Europe",102,30
+"030. Brussels","S.E. Asia",2,30
+"030. Brussels","W. Africa",19,30
+"030. Brussels","W. Asia",14,30
+"030. Brussels","W. Europe",45,30
+"096. Cairo","E. Africa",6,96
+"096. Cairo","E. Asia",4,96
+"096. Cairo","E. Europe",3,96
+"096. Cairo","N. Africa",32,96
+"096. Cairo","N. America",3,96
+"096. Cairo","N. Europe",5,96
+"096. Cairo","S. Africa",2,96
+"096. Cairo","S. Asia",2,96
+"096. Cairo","S. Europe",8,96
+"096. Cairo","S.E. Asia",4,96
+"096. Cairo","W. Africa",4,96
+"096. Cairo","W. Asia",57,96
+"096. Cairo","W. Europe",18,96
+"091. Cancun","C. America",35,91
+"091. Cancun","Caribbean",2,91
+"091. Cancun","E. Europe",1,91
+"091. Cancun","N. America",93,91
+"091. Cancun","N. Europe",10,91
+"091. Cancun","S. America",5,91
+"091. Cancun","S. Europe",7,91
+"091. Cancun","W. Europe",4,91
+"074. Changcha","E. Asia",184,74
+"074. Changcha","S.E. Asia",5,74
+"035. Charlotte","C. America",15,35
+"035. Charlotte","Caribbean",25,35
+"035. Charlotte","N. America",247,35
+"035. Charlotte","N. Europe",4,35
+"035. Charlotte","S. America",3,35
+"035. Charlotte","S. Europe",2,35
+"035. Charlotte","W. Europe",5,35
+"031. Chengdu","Aus. & N.Z.",1,31
+"031. Chengdu","E. Asia",291,31
+"031. Chengdu","N. Europe",1,31
+"031. Chengdu","S. Asia",3,31
+"031. Chengdu","S.E. Asia",9,31
+"031. Chengdu","W. Asia",3,31
+"031. Chengdu","W. Europe",4,31
+"004. Chicago","C. America",29,4
+"004. Chicago","Caribbean",15,4
+"004. Chicago","E. Asia",22,4
+"004. Chicago","E. Europe",1,4
+"004. Chicago","N. America",550,4
+"004. Chicago","N. Europe",23,4
+"004. Chicago","S. America",1,4
+"004. Chicago","S. Asia",1,4
+"004. Chicago","S. Europe",11,4
+"004. Chicago","W. Asia",7,4
+"004. Chicago","W. Europe",34,4
+"044. Chongqing","Aus. & N.Z.",1,44
+"044. Chongqing","E. Asia",252,44
+"044. Chongqing","N. Europe",1,44
+"044. Chongqing","S.E. Asia",8,44
+"057. Copenhagen","E. Asia",4,57
+"057. Copenhagen","E. Europe",18,57
+"057. Copenhagen","N. Africa",4,57
+"057. Copenhagen","N. America",11,57
+"057. Copenhagen","N. Europe",67,57
+"057. Copenhagen","S. Asia",1,57
+"057. Copenhagen","S. Europe",54,57
+"057. Copenhagen","S.E. Asia",4,57
+"057. Copenhagen","W. Asia",10,57
+"057. Copenhagen","W. Europe",55,57
+"012. Dallas-Fort Worth","Aus. & N.Z.",2,12
+"012. Dallas-Fort Worth","C. America",57,12
+"012. Dallas-Fort Worth","Caribbean",8,12
+"012. Dallas-Fort Worth","E. Asia",8,12
+"012. Dallas-Fort Worth","N. America",347,12
+"012. Dallas-Fort Worth","N. Europe",6,12
+"012. Dallas-Fort Worth","S. America",18,12
+"012. Dallas-Fort Worth","S. Europe",5,12
+"012. Dallas-Fort Worth","W. Asia",2,12
+"012. Dallas-Fort Worth","W. Europe",16,12
+"045. Delhi","Aus. & N.Z.",2,45
+"045. Delhi","C. Asia",4,45
+"045. Delhi","E. Africa",5,45
+"045. Delhi","E. Asia",16,45
+"045. Delhi","E. Europe",1,45
+"045. Delhi","N. America",3,45
+"045. Delhi","N. Europe",7,45
+"045. Delhi","S. Asia",168,45
+"045. Delhi","S. Europe",2,45
+"045. Delhi","S.E. Asia",11,45
+"045. Delhi","W. Asia",24,45
+"045. Delhi","W. Europe",14,45
+"024. Denver","C. America",13,24
+"024. Denver","E. Asia",2,24
+"024. Denver","N. America",337,24
+"024. Denver","N. Europe",5,24
+"024. Denver","W. Europe",2,24
+"061. Detroit","C. America",7,61
+"061. Detroit","Caribbean",5,61
+"061. Detroit","E. Asia",9,61
+"061. Detroit","N. America",179,61
+"061. Detroit","N. Europe",4,61
+"061. Detroit","S. America",2,61
+"061. Detroit","W. Europe",10,61
+"017. Dubai","Aus. & N.Z.",10,17
+"017. Dubai","C. Asia",6,17
+"017. Dubai","E. Africa",20,17
+"017. Dubai","E. Asia",17,17
+"017. Dubai","E. Europe",48,17
+"017. Dubai","Mid. Africa",2,17
+"017. Dubai","N. Africa",16,17
+"017. Dubai","N. America",19,17
+"017. Dubai","N. Europe",22,17
+"017. Dubai","S. Africa",6,17
+"017. Dubai","S. America",2,17
+"017. Dubai","S. Asia",84,17
+"017. Dubai","S. Europe",12,17
+"017. Dubai","S.E. Asia",22,17
+"017. Dubai","W. Africa",3,17
+"017. Dubai","W. Asia",78,17
+"017. Dubai","W. Europe",25,17
+"065. Dublin","E. Europe",19,65
+"065. Dublin","N. Africa",1,65
+"065. Dublin","N. America",34,65
+"065. Dublin","N. Europe",47,65
+"065. Dublin","S. Europe",58,65
+"065. Dublin","W. Asia",6,65
+"065. Dublin","W. Europe",42,65
+"038. Duesseldorf","C. America",1,38
+"038. Duesseldorf","Caribbean",4,38
+"038. Duesseldorf","E. Asia",4,38
+"038. Duesseldorf","E. Europe",18,38
+"038. Duesseldorf","N. Africa",10,38
+"038. Duesseldorf","N. America",21,38
+"038. Duesseldorf","N. Europe",35,38
+"038. Duesseldorf","S. Asia",1,38
+"038. Duesseldorf","S. Europe",116,38
+"038. Duesseldorf","W. Asia",25,38
+"038. Duesseldorf","W. Europe",47,38
+"076. Fort Lauderdale","C. America",10,76
+"076. Fort Lauderdale","Caribbean",44,76
+"076. Fort Lauderdale","N. America",119,76
+"076. Fort Lauderdale","N. Europe",3,76
+"076. Fort Lauderdale","S. America",10,76
+"010. Frankfurt","C. America",2,10
+"010. Frankfurt","C. Asia",7,10
+"010. Frankfurt","Caribbean",9,10
+"010. Frankfurt","E. Africa",6,10
+"010. Frankfurt","E. Asia",24,10
+"010. Frankfurt","E. Europe",41,10
+"010. Frankfurt","Mid. Africa",1,10
+"010. Frankfurt","N. Africa",13,10
+"010. Frankfurt","N. America",71,10
+"010. Frankfurt","N. Europe",46,10
+"010. Frankfurt","S. Africa",4,10
+"010. Frankfurt","S. America",10,10
+"010. Frankfurt","S. Asia",14,10
+"010. Frankfurt","S. Europe",113,10
+"010. Frankfurt","S.E. Asia",12,10
+"010. Frankfurt","W. Africa",6,10
+"010. Frankfurt","W. Asia",48,10
+"010. Frankfurt","W. Europe",62,10
+"085. Geneva","E. Asia",1,85
+"085. Geneva","E. Europe",11,85
+"085. Geneva","N. Africa",10,85
+"085. Geneva","N. America",10,85
+"085. Geneva","N. Europe",23,85
+"085. Geneva","S. Europe",57,85
+"085. Geneva","W. Asia",13,85
+"085. Geneva","W. Europe",39,85
+"092. Gran Canaria","E. Europe",1,92
+"092. Gran Canaria","N. Africa",7,92
+"092. Gran Canaria","N. Europe",43,92
+"092. Gran Canaria","S. Europe",43,92
+"092. Gran Canaria","W. Africa",7,92
+"092. Gran Canaria","W. Europe",52,92
+"027. Guangzhou","Aus. & N.Z.",5,27
+"027. Guangzhou","E. Africa",5,27
+"027. Guangzhou","E. Asia",256,27
+"027. Guangzhou","E. Europe",2,27
+"027. Guangzhou","Micronesia",1,27
+"027. Guangzhou","N. Africa",2,27
+"027. Guangzhou","N. America",3,27
+"027. Guangzhou","N. Europe",1,27
+"027. Guangzhou","S. Asia",5,27
+"027. Guangzhou","S.E. Asia",37,27
+"027. Guangzhou","W. Asia",6,27
+"027. Guangzhou","W. Europe",4,27
+"086. Hamburg","E. Europe",8,86
+"086. Hamburg","N. Africa",2,86
+"086. Hamburg","N. America",2,86
+"086. Hamburg","N. Europe",23,86
+"086. Hamburg","S. Asia",1,86
+"086. Hamburg","S. Europe",64,86
+"086. Hamburg","W. Asia",12,86
+"086. Hamburg","W. Europe",49,86
+"047. Hangzhou","E. Asia",242,47
+"047. Hangzhou","S.E. Asia",7,47
+"047. Hangzhou","W. Europe",2,47
+"088. Helsinki","E. Asia",14,88
+"088. Helsinki","E. Europe",22,88
+"088. Helsinki","N. America",4,88
+"088. Helsinki","N. Europe",58,88
+"088. Helsinki","S. Asia",1,88
+"088. Helsinki","S. Europe",21,88
+"088. Helsinki","S.E. Asia",2,88
+"088. Helsinki","W. Asia",6,88
+"088. Helsinki","W. Europe",31,88
+"025. Hong Kong","Aus. & N.Z.",18,25
+"025. Hong Kong","C. Asia",1,25
+"025. Hong Kong","E. Africa",2,25
+"025. Hong Kong","E. Asia",174,25
+"025. Hong Kong","E. Europe",9,25
+"025. Hong Kong","Melanesia",3,25
+"025. Hong Kong","Micronesia",1,25
+"025. Hong Kong","N. America",20,25
+"025. Hong Kong","N. Europe",4,25
+"025. Hong Kong","S. Africa",2,25
+"025. Hong Kong","S. Asia",19,25
+"025. Hong Kong","S. Europe",2,25
+"025. Hong Kong","S.E. Asia",79,25
+"025. Hong Kong","W. Asia",8,25
+"025. Hong Kong","W. Europe",9,25
+"029. Houston","C. America",45,29
+"029. Houston","Caribbean",6,29
+"029. Houston","E. Asia",5,29
+"029. Houston","E. Europe",2,29
+"029. Houston","N. America",231,29
+"029. Houston","N. Europe",6,29
+"029. Houston","S. America",8,29
+"029. Houston","W. Africa",1,29
+"029. Houston","W. Asia",4,29
+"029. Houston","W. Europe",10,29
+"009. Istanbul","C. Asia",19,9
+"009. Istanbul","E. Africa",8,9
+"009. Istanbul","E. Asia",15,9
+"009. Istanbul","E. Europe",54,9
+"009. Istanbul","Mid. Africa",3,9
+"009. Istanbul","N. Africa",26,9
+"009. Istanbul","N. America",12,9
+"009. Istanbul","N. Europe",30,9
+"009. Istanbul","S. Africa",1,9
+"009. Istanbul","S. America",1,9
+"009. Istanbul","S. Asia",24,9
+"009. Istanbul","S. Europe",48,9
+"009. Istanbul","S.E. Asia",7,9
+"009. Istanbul","W. Africa",4,9
+"009. Istanbul","W. Asia",163,9
+"009. Istanbul","W. Europe",79,9
+"078. Jakarta","Aus. & N.Z.",6,78
+"078. Jakarta","E. Asia",27,78
+"078. Jakarta","N. Africa",1,78
+"078. Jakarta","S. Asia",2,78
+"078. Jakarta","S.E. Asia",137,78
+"078. Jakarta","W. Asia",11,78
+"072. Jeddah","E. Africa",9,72
+"072. Jeddah","E. Asia",1,72
+"072. Jeddah","Mid. Africa",1,72
+"072. Jeddah","N. Africa",31,72
+"072. Jeddah","N. America",4,72
+"072. Jeddah","N. Europe",5,72
+"072. Jeddah","S. Africa",1,72
+"072. Jeddah","S. Asia",42,72
+"072. Jeddah","S. Europe",6,72
+"072. Jeddah","S.E. Asia",12,72
+"072. Jeddah","W. Africa",1,72
+"072. Jeddah","W. Asia",68,72
+"072. Jeddah","W. Europe",9,72
+"087. Johannesburg","Aus. & N.Z.",4,87
+"087. Johannesburg","E. Africa",46,87
+"087. Johannesburg","E. Asia",2,87
+"087. Johannesburg","Mid. Africa",8,87
+"087. Johannesburg","N. Africa",2,87
+"087. Johannesburg","N. America",5,87
+"087. Johannesburg","N. Europe",6,87
+"087. Johannesburg","S. Africa",51,87
+"087. Johannesburg","S. America",2,87
+"087. Johannesburg","S. Asia",3,87
+"087. Johannesburg","S.E. Asia",6,87
+"087. Johannesburg","W. Africa",6,87
+"087. Johannesburg","W. Asia",9,87
+"087. Johannesburg","W. Europe",11,87
+"039. Kuala Lumpur","Aus. & N.Z.",14,39
+"039. Kuala Lumpur","C. Asia",3,39
+"039. Kuala Lumpur","E. Africa",2,39
+"039. Kuala Lumpur","E. Asia",43,39
+"039. Kuala Lumpur","N. Europe",2,39
+"039. Kuala Lumpur","S. Asia",39,39
+"039. Kuala Lumpur","S.E. Asia",152,39
+"039. Kuala Lumpur","W. Asia",18,39
+"039. Kuala Lumpur","W. Europe",9,39
+"043. Kunming","E. Asia",242,43
+"043. Kunming","S. Asia",4,43
+"043. Kunming","S.E. Asia",18,43
+"043. Kunming","W. Asia",1,43
+"050. Las Vegas","C. America",10,50
+"050. Las Vegas","E. Asia",2,50
+"050. Las Vegas","N. America",219,50
+"050. Las Vegas","N. Europe",13,50
+"050. Las Vegas","W. Europe",2,50
+"062. Lisbon","E. Africa",1,62
+"062. Lisbon","E. Europe",10,62
+"062. Lisbon","Mid. Africa",4,62
+"062. Lisbon","N. Africa",7,62
+"062. Lisbon","N. America",14,62
+"062. Lisbon","N. Europe",28,62
+"062. Lisbon","S. America",11,62
+"062. Lisbon","S. Europe",59,62
+"062. Lisbon","W. Africa",11,62
+"062. Lisbon","W. Asia",4,62
+"062. Lisbon","W. Europe",65,62
+"001. London","C. America",8,1
+"001. London","C. Asia",5,1
+"001. London","Caribbean",16,1
+"001. London","E. Africa",10,1
+"001. London","E. Asia",25,1
+"001. London","E. Europe",73,1
+"001. London","Mid. Africa",1,1
+"001. London","N. Africa",42,1
+"001. London","N. America",203,1
+"001. London","N. Europe",149,1
+"001. London","S. Africa",8,1
+"001. London","S. America",4,1
+"001. London","S. Asia",22,1
+"001. London","S. Europe",356,1
+"001. London","S.E. Asia",11,1
+"001. London","W. Africa",11,1
+"001. London","W. Asia",90,1
+"001. London","W. Europe",182,1
+"011. Los Angeles","Aus. & N.Z.",17,11
+"011. Los Angeles","C. America",56,11
+"011. Los Angeles","E. Asia",35,11
+"011. Los Angeles","E. Europe",3,11
+"011. Los Angeles","Melanesia",4,11
+"011. Los Angeles","N. America",318,11
+"011. Los Angeles","N. Europe",13,11
+"011. Los Angeles","Polynesia",8,11
+"011. Los Angeles","S. America",8,11
+"011. Los Angeles","S. Europe",6,11
+"011. Los Angeles","S.E. Asia",1,11
+"011. Los Angeles","W. Asia",6,11
+"011. Los Angeles","W. Europe",14,11
+"028. Madrid","C. America",11,28
+"028. Madrid","Caribbean",8,28
+"028. Madrid","E. Asia",3,28
+"028. Madrid","E. Europe",23,28
+"028. Madrid","Mid. Africa",2,28
+"028. Madrid","N. Africa",16,28
+"028. Madrid","N. America",39,28
+"028. Madrid","N. Europe",23,28
+"028. Madrid","S. America",29,28
+"028. Madrid","S. Europe",100,28
+"028. Madrid","S.E. Asia",1,28
+"028. Madrid","W. Africa",4,28
+"028. Madrid","W. Asia",9,28
+"028. Madrid","W. Europe",59,28
+"066. Malaga","E. Europe",12,66
+"066. Malaga","N. Africa",2,66
+"066. Malaga","N. America",1,66
+"066. Malaga","N. Europe",86,66
+"066. Malaga","S. Europe",38,66
+"066. Malaga","W. Asia",1,66
+"066. Malaga","W. Europe",66,66
+"032. Manchester","C. America",4,32
+"032. Manchester","Caribbean",6,32
+"032. Manchester","E. Europe",10,32
+"032. Manchester","N. Africa",17,32
+"032. Manchester","N. America",29,32
+"032. Manchester","N. Europe",46,32
+"032. Manchester","S. Asia",2,32
+"032. Manchester","S. Europe",125,32
+"032. Manchester","W. Africa",4,32
+"032. Manchester","W. Asia",34,32
+"032. Manchester","W. Europe",33,32
+"069. Manila","Aus. & N.Z.",4,69
+"069. Manila","E. Asia",51,69
+"069. Manila","Melanesia",1,69
+"069. Manila","Micronesia",3,69
+"069. Manila","N. America",4,69
+"069. Manila","N. Europe",1,69
+"069. Manila","S.E. Asia",113,69
+"069. Manila","W. Asia",14,69
+"052. Mexico City","C. America",135,52
+"052. Mexico City","Caribbean",3,52
+"052. Mexico City","N. America",78,52
+"052. Mexico City","N. Europe",2,52
+"052. Mexico City","S. America",14,52
+"052. Mexico City","S. Europe",4,52
+"052. Mexico City","W. Europe",6,52
+"022. Miami","C. America",44,22
+"022. Miami","Caribbean",75,22
+"022. Miami","E. Europe",3,22
+"022. Miami","N. America",130,22
+"022. Miami","N. Europe",8,22
+"022. Miami","S. America",72,22
+"022. Miami","S. Europe",19,22
+"022. Miami","W. Europe",17,22
+"073. Milano","C. America",1,73
+"073. Milano","C. Asia",1,73
+"073. Milano","Caribbean",2,73
+"073. Milano","E. Africa",1,73
+"073. Milano","E. Asia",4,73
+"073. Milano","E. Europe",19,73
+"073. Milano","N. Africa",11,73
+"073. Milano","N. America",17,73
+"073. Milano","N. Europe",16,73
+"073. Milano","S. America",2,73
+"073. Milano","S. Asia",2,73
+"073. Milano","S. Europe",50,73
+"073. Milano","S.E. Asia",2,73
+"073. Milano","W. Africa",1,73
+"073. Milano","W. Asia",19,73
+"073. Milano","W. Europe",42,73
+"060. Minneapolis","C. America",3,60
+"060. Minneapolis","Caribbean",1,60
+"060. Minneapolis","E. Asia",1,60
+"060. Minneapolis","N. America",205,60
+"060. Minneapolis","N. Europe",4,60
+"060. Minneapolis","W. Europe",4,60
+"075. Montreal","C. America",6,75
+"075. Montreal","Caribbean",24,75
+"075. Montreal","N. Africa",3,75
+"075. Montreal","N. America",111,75
+"075. Montreal","N. Europe",7,75
+"075. Montreal","S. Europe",6,75
+"075. Montreal","W. Asia",3,75
+"075. Montreal","W. Europe",28,75
+"007. Moscow","C. America",1,7
+"007. Moscow","C. Asia",66,7
+"007. Moscow","Caribbean",6,7
+"007. Moscow","E. Africa",2,7
+"007. Moscow","E. Asia",23,7
+"007. Moscow","E. Europe",245,7
+"007. Moscow","N. Africa",12,7
+"007. Moscow","N. America",15,7
+"007. Moscow","N. Europe",28,7
+"007. Moscow","S. Asia",7,7
+"007. Moscow","S. Europe",83,7
+"007. Moscow","S.E. Asia",14,7
+"007. Moscow","W. Asia",50,7
+"007. Moscow","W. Europe",50,7
+"059. Mumbai","E. Africa",6,59
+"059. Mumbai","E. Asia",7,59
+"059. Mumbai","N. Africa",2,59
+"059. Mumbai","N. America",2,59
+"059. Mumbai","N. Europe",5,59
+"059. Mumbai","S. Africa",3,59
+"059. Mumbai","S. Asia",141,59
+"059. Mumbai","S.E. Asia",11,59
+"059. Mumbai","W. Asia",31,59
+"059. Mumbai","W. Europe",11,59
+"023. Munich","C. America",1,23
+"023. Munich","Caribbean",2,23
+"023. Munich","E. Asia",8,23
+"023. Munich","E. Europe",36,23
+"023. Munich","N. Africa",10,23
+"023. Munich","N. America",27,23
+"023. Munich","N. Europe",37,23
+"023. Munich","S. Africa",3,23
+"023. Munich","S. America",2,23
+"023. Munich","S. Asia",4,23
+"023. Munich","S. Europe",136,23
+"023. Munich","S.E. Asia",6,23
+"023. Munich","W. Africa",1,23
+"023. Munich","W. Asia",34,23
+"023. Munich","W. Europe",56,23
+"097. Nairobi","E. Africa",90,97
+"097. Nairobi","E. Asia",4,97
+"097. Nairobi","Mid. Africa",9,97
+"097. Nairobi","N. Africa",4,97
+"097. Nairobi","N. Europe",3,97
+"097. Nairobi","S. Africa",3,97
+"097. Nairobi","S. Asia",3,97
+"097. Nairobi","S.E. Asia",3,97
+"097. Nairobi","W. Africa",4,97
+"097. Nairobi","W. Asia",13,97
+"097. Nairobi","W. Europe",12,97
+"084. Nanjing","Aus. & N.Z.",2,84
+"084. Nanjing","E. Asia",160,84
+"084. Nanjing","S.E. Asia",1,84
+"084. Nanjing","W. Europe",2,84
+"005. New York","C. America",21,5
+"005. New York","Caribbean",51,5
+"005. New York","E. Asia",18,5
+"005. New York","E. Europe",5,5
+"005. New York","N. Africa",3,5
+"005. New York","N. America",340,5
+"005. New York","N. Europe",41,5
+"005. New York","S. Africa",4,5
+"005. New York","S. America",27,5
+"005. New York","S. Asia",2,5
+"005. New York","S. Europe",37,5
+"005. New York","W. Africa",3,5
+"005. New York","W. Asia",14,5
+"005. New York","W. Europe",46,5
+"046. Newark","C. America",13,46
+"046. Newark","Caribbean",19,46
+"046. Newark","E. Asia",9,46
+"046. Newark","N. America",130,46
+"046. Newark","N. Europe",28,46
+"046. Newark","S. America",4,46
+"046. Newark","S. Asia",3,46
+"046. Newark","S. Europe",13,46
+"046. Newark","W. Asia",2,46
+"046. Newark","W. Europe",32,46
+"055. Orlando","C. America",10,55
+"055. Orlando","Caribbean",18,55
+"055. Orlando","N. America",188,55
+"055. Orlando","N. Europe",14,55
+"055. Orlando","S. America",5,55
+"055. Orlando","W. Europe",2,55
+"070. Osaka","Aus. & N.Z.",6,70
+"070. Osaka","E. Asia",141,70
+"070. Osaka","Melanesia",1,70
+"070. Osaka","Micronesia",5,70
+"070. Osaka","N. America",7,70
+"070. Osaka","N. Europe",2,70
+"070. Osaka","S. Europe",1,70
+"070. Osaka","S.E. Asia",20,70
+"070. Osaka","W. Asia",4,70
+"070. Osaka","W. Europe",4,70
+"082. Oslo","E. Europe",14,82
+"082. Oslo","N. Africa",1,82
+"082. Oslo","N. America",4,82
+"082. Oslo","N. Europe",83,82
+"082. Oslo","S. Asia",1,82
+"082. Oslo","S. Europe",34,82
+"082. Oslo","S.E. Asia",3,82
+"082. Oslo","W. Asia",5,82
+"082. Oslo","W. Europe",33,82
+"042. Palma de Mallorca","E. Europe",7,42
+"042. Palma de Mallorca","N. Africa",2,42
+"042. Palma de Mallorca","N. Europe",94,42
+"042. Palma de Mallorca","S. Europe",54,42
+"042. Palma de Mallorca","W. Europe",114,42
+"003. Paris","C. America",5,3
+"003. Paris","C. Asia",2,3
+"003. Paris","Caribbean",20,3
+"003. Paris","E. Africa",14,3
+"003. Paris","E. Asia",24,3
+"003. Paris","E. Europe",28,3
+"003. Paris","Mid. Africa",13,3
+"003. Paris","N. Africa",70,3
+"003. Paris","N. America",103,3
+"003. Paris","N. Europe",74,3
+"003. Paris","S. Africa",2,3
+"003. Paris","S. America",15,3
+"003. Paris","S. Asia",8,3
+"003. Paris","S. Europe",151,3
+"003. Paris","S.E. Asia",14,3
+"003. Paris","W. Africa",26,3
+"003. Paris","W. Asia",38,3
+"003. Paris","W. Europe",116,3
+"037. Philadelphia","C. America",3,37
+"037. Philadelphia","Caribbean",21,37
+"037. Philadelphia","N. America",221,37
+"037. Philadelphia","N. Europe",11,37
+"037. Philadelphia","S. Europe",14,37
+"037. Philadelphia","W. Asia",2,37
+"037. Philadelphia","W. Europe",15,37
+"048. Phoenix","C. America",19,48
+"048. Phoenix","N. America",227,48
+"048. Phoenix","N. Europe",4,48
+"081. Prague","C. Asia",2,81
+"081. Prague","E. Asia",2,81
+"081. Prague","E. Europe",40,81
+"081. Prague","N. Europe",34,81
+"081. Prague","S. Europe",47,81
+"081. Prague","W. Asia",12,81
+"081. Prague","W. Europe",43,81
+"079. Qingdao","E. Asia",182,79
+"079. Qingdao","S.E. Asia",2,79
+"021. Rome","C. Asia",1,21
+"021. Rome","Caribbean",4,21
+"021. Rome","E. Africa",1,21
+"021. Rome","E. Asia",8,21
+"021. Rome","E. Europe",48,21
+"021. Rome","N. Africa",12,21
+"021. Rome","N. America",38,21
+"021. Rome","N. Europe",42,21
+"021. Rome","S. America",5,21
+"021. Rome","S. Asia",8,21
+"021. Rome","S. Europe",101,21
+"021. Rome","S.E. Asia",2,21
+"021. Rome","W. Africa",1,21
+"021. Rome","W. Asia",25,21
+"021. Rome","W. Europe",83,21
+"049. San Francisco","Aus. & N.Z.",5,49
+"049. San Francisco","C. America",23,49
+"049. San Francisco","E. Asia",31,49
+"049. San Francisco","N. America",162,49
+"049. San Francisco","N. Europe",12,49
+"049. San Francisco","S.E. Asia",1,49
+"049. San Francisco","W. Asia",2,49
+"049. San Francisco","W. Europe",13,49
+"054. Sao Paulo","C. America",3,54
+"054. Sao Paulo","Caribbean",3,54
+"054. Sao Paulo","Mid. Africa",1,54
+"054. Sao Paulo","N. Africa",1,54
+"054. Sao Paulo","N. America",27,54
+"054. Sao Paulo","N. Europe",2,54
+"054. Sao Paulo","S. Africa",2,54
+"054. Sao Paulo","S. America",178,54
+"054. Sao Paulo","S. Europe",10,54
+"054. Sao Paulo","W. Africa",1,54
+"054. Sao Paulo","W. Asia",3,54
+"054. Sao Paulo","W. Europe",8,54
+"067. Seattle","E. Asia",17,67
+"067. Seattle","N. America",167,67
+"067. Seattle","N. Europe",9,67
+"067. Seattle","W. Asia",2,67
+"067. Seattle","W. Europe",8,67
+"015. Seoul","Aus. & N.Z.",6,15
+"015. Seoul","C. Asia",5,15
+"015. Seoul","E. Africa",2,15
+"015. Seoul","E. Asia",222,15
+"015. Seoul","E. Europe",15,15
+"015. Seoul","Melanesia",1,15
+"015. Seoul","Micronesia",6,15
+"015. Seoul","N. America",43,15
+"015. Seoul","N. Europe",4,15
+"015. Seoul","S. Asia",5,15
+"015. Seoul","S. Europe",3,15
+"015. Seoul","S.E. Asia",73,15
+"015. Seoul","W. Asia",10,15
+"015. Seoul","W. Europe",10,15
+"006. Shanghai","Aus. & N.Z.",10,6
+"006. Shanghai","C. America",1,6
+"006. Shanghai","E. Africa",2,6
+"006. Shanghai","E. Asia",487,6
+"006. Shanghai","E. Europe",2,6
+"006. Shanghai","Micronesia",1,6
+"006. Shanghai","N. America",30,6
+"006. Shanghai","N. Europe",7,6
+"006. Shanghai","S. Asia",5,6
+"006. Shanghai","S. Europe",3,6
+"006. Shanghai","S.E. Asia",39,6
+"006. Shanghai","W. Asia",5,6
+"006. Shanghai","W. Europe",12,6
+"056. Shenzhen","E. Asia",217,56
+"056. Shenzhen","S.E. Asia",13,56
+"016. Singapore","Aus. & N.Z.",47,16
+"016. Singapore","C. Asia",2,16
+"016. Singapore","E. Asia",84,16
+"016. Singapore","E. Europe",2,16
+"016. Singapore","Melanesia",1,16
+"016. Singapore","N. Europe",7,16
+"016. Singapore","S. Africa",4,16
+"016. Singapore","S. Asia",47,16
+"016. Singapore","S. Europe",3,16
+"016. Singapore","S.E. Asia",175,16
+"016. Singapore","W. Asia",17,16
+"016. Singapore","W. Europe",15,16
+"080. St. Petersburg","C. Asia",35,80
+"080. St. Petersburg","Caribbean",1,80
+"080. St. Petersburg","E. Asia",3,80
+"080. St. Petersburg","E. Europe",73,80
+"080. St. Petersburg","N. Europe",10,80
+"080. St. Petersburg","S. Europe",22,80
+"080. St. Petersburg","W. Asia",16,80
+"080. St. Petersburg","W. Europe",21,80
+"041. Stockholm","E. Africa",2,41
+"041. Stockholm","E. Asia",2,41
+"041. Stockholm","E. Europe",19,41
+"041. Stockholm","N. Africa",1,41
+"041. Stockholm","N. America",7,41
+"041. Stockholm","N. Europe",118,41
+"041. Stockholm","S. Asia",2,41
+"041. Stockholm","S. Europe",59,41
+"041. Stockholm","S.E. Asia",3,41
+"041. Stockholm","W. Asia",15,41
+"041. Stockholm","W. Europe",48,41
+"064. Sydney","Aus. & N.Z.",122,64
+"064. Sydney","E. Asia",21,64
+"064. Sydney","Melanesia",11,64
+"064. Sydney","N. America",16,64
+"064. Sydney","Polynesia",3,64
+"064. Sydney","S. Africa",2,64
+"064. Sydney","S. America",2,64
+"064. Sydney","S. Asia",1,64
+"064. Sydney","S.E. Asia",25,64
+"064. Sydney","W. Asia",5,64
+"034. Taipei","Aus. & N.Z.",3,34
+"034. Taipei","E. Asia",225,34
+"034. Taipei","Micronesia",4,34
+"034. Taipei","N. America",17,34
+"034. Taipei","S. Asia",2,34
+"034. Taipei","S.E. Asia",46,34
+"034. Taipei","W. Asia",1,34
+"034. Taipei","W. Europe",5,34
+"071. Tenerife","E. Europe",5,71
+"071. Tenerife","N. Africa",1,71
+"071. Tenerife","N. Europe",70,71
+"071. Tenerife","S. America",1,71
+"071. Tenerife","S. Europe",50,71
+"071. Tenerife","W. Africa",1,71
+"071. Tenerife","W. Europe",63,71
+"099. Tianjin","E. Asia",142,99
+"099. Tianjin","S.E. Asia",1,99
+"014. Tokyo","Aus. & N.Z.",12,14
+"014. Tokyo","C. America",1,14
+"014. Tokyo","C. Asia",1,14
+"014. Tokyo","E. Asia",228,14
+"014. Tokyo","E. Europe",8,14
+"014. Tokyo","Melanesia",2,14
+"014. Tokyo","Micronesia",8,14
+"014. Tokyo","N. America",74,14
+"014. Tokyo","N. Europe",11,14
+"014. Tokyo","Polynesia",2,14
+"014. Tokyo","S. Asia",6,14
+"014. Tokyo","S. Europe",3,14
+"014. Tokyo","S.E. Asia",57,14
+"014. Tokyo","W. Asia",8,14
+"014. Tokyo","W. Europe",18,14
+"026. Toronto","C. America",10,26
+"026. Toronto","Caribbean",48,26
+"026. Toronto","E. Africa",1,26
+"026. Toronto","E. Asia",11,26
+"026. Toronto","E. Europe",4,26
+"026. Toronto","N. Africa",1,26
+"026. Toronto","N. America",186,26
+"026. Toronto","N. Europe",16,26
+"026. Toronto","S. America",8,26
+"026. Toronto","S. Asia",3,26
+"026. Toronto","S. Europe",17,26
+"026. Toronto","W. Asia",8,26
+"026. Toronto","W. Europe",20,26
+"095. Urumqi","C. Asia",16,95
+"095. Urumqi","E. Asia",125,95
+"095. Urumqi","E. Europe",5,95
+"095. Urumqi","S. Asia",2,95
+"095. Urumqi","W. Asia",3,95
+"089. Vancouver","Aus. & N.Z.",3,89
+"089. Vancouver","C. America",7,89
+"089. Vancouver","E. Asia",20,89
+"089. Vancouver","N. America",113,89
+"089. Vancouver","N. Europe",8,89
+"089. Vancouver","S.E. Asia",1,89
+"089. Vancouver","W. Europe",7,89
+"033. Vienna","C. Asia",2,33
+"033. Vienna","E. Asia",5,33
+"033. Vienna","E. Europe",44,33
+"033. Vienna","N. Africa",7,33
+"033. Vienna","N. America",9,33
+"033. Vienna","N. Europe",23,33
+"033. Vienna","S. Asia",4,33
+"033. Vienna","S. Europe",108,33
+"033. Vienna","S.E. Asia",3,33
+"033. Vienna","W. Asia",32,33
+"033. Vienna","W. Europe",70,33
+"098. Warsaw","E. Asia",2,98
+"098. Warsaw","E. Europe",28,98
+"098. Warsaw","N. America",4,98
+"098. Warsaw","N. Europe",36,98
+"098. Warsaw","S. Europe",33,98
+"098. Warsaw","W. Asia",11,98
+"098. Warsaw","W. Europe",31,98
+"019. Washington","C. America",10,19
+"019. Washington","Caribbean",10,19
+"019. Washington","E. Africa",1,19
+"019. Washington","E. Asia",6,19
+"019. Washington","E. Europe",2,19
+"019. Washington","N. America",309,19
+"019. Washington","N. Europe",13,19
+"019. Washington","S. America",3,19
+"019. Washington","S. Europe",1,19
+"019. Washington","W. Africa",3,19
+"019. Washington","W. Asia",10,19
+"019. Washington","W. Europe",22,19
+"077. Wuhan","E. Asia",179,77
+"077. Wuhan","S.E. Asia",6,77
+"077. Wuhan","W. Europe",1,77
+"040. Xi'an","E. Asia",276,40
+"040. Xi'an","N. America",2,40
+"040. Xi'an","N. Europe",1,40
+"040. Xi'an","S.E. Asia",1,40
+"058. Xiamen","E. Asia",209,58
+"058. Xiamen","S.E. Asia",17,58
+"058. Xiamen","W. Europe",2,58
+"083. Zhengzhou","E. Asia",173,83
+"083. Zhengzhou","S.E. Asia",1,83
+"051. Zurich","Caribbean",2,51
+"051. Zurich","E. Africa",3,51
+"051. Zurich","E. Asia",6,51
+"051. Zurich","E. Europe",16,51
+"051. Zurich","N. Africa",11,51
+"051. Zurich","N. America",27,51
+"051. Zurich","N. Europe",26,51
+"051. Zurich","S. Africa",2,51
+"051. Zurich","S. America",1,51
+"051. Zurich","S. Asia",4,51
+"051. Zurich","S. Europe",73,51
+"051. Zurich","S.E. Asia",5,51
+"051. Zurich","W. Asia",20,51
+"051. Zurich","W. Europe",49,51
